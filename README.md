@@ -138,6 +138,7 @@ Feedback Loops: For example, as Arctic ice melts, the Earth's albedo (reflectivi
 
 
 # RESULT: 
+
      The various types of Prompts are executed successfully with generated the report.
 
 
